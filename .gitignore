@@ -1,0 +1,6 @@
+root/files
+error.log
+*~
+roseno.pid
+sent_contact_email.log
+dbic.conf
