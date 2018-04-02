@@ -19,6 +19,7 @@ requires 'Config::General'; # This should reflect the config file format you've 
                  # See Catalyst::Plugin::ConfigLoader for supported formats
 
 requires 'HTML::FormFu';
+requires 'Text::Markdown';
 
 test_requires 'Test::More' => '0.88';
 catalyst;
